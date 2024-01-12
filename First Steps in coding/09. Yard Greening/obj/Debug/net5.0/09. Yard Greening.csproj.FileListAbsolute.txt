@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.exe
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.deps.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\bin\Debug\net5.0\09. Yard Greening.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\refint\09. Yard Greening.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\09. Yard Greening.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\09. Yard Greening\obj\Debug\net5.0\ref\09. Yard Greening.dll

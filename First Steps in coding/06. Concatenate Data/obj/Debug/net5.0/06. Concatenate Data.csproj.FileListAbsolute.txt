@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.exe
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.deps.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\bin\Debug\net5.0\06. Concatenate Data.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\refint\06. Concatenate Data.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\06. Concatenate Data.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\06. Concatenate Data\obj\Debug\net5.0\ref\06. Concatenate Data.dll

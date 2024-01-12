@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.exe
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.deps.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\bin\Debug\net5.0\01. Hello SoftUni.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\refint\01. Hello SoftUni.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\01. Hello SoftUni.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\01. Hello SoftUni\obj\Debug\net5.0\ref\01. Hello SoftUni.dll

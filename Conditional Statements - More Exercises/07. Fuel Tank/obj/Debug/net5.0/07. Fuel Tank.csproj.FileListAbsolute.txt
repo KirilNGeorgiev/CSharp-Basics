@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net5.0\07. Fuel Tank.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net5.0\07. Fuel Tank.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net5.0\07. Fuel Tank.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net5.0\07. Fuel Tank.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net5.0\07. Fuel Tank.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\bin\Debug\net5.0\07. Fuel Tank.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\07. Fuel Tank.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\07. Fuel Tank.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\07. Fuel Tank.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\07. Fuel Tank.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\07. Fuel Tank.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\07. Fuel Tank.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\refint\07. Fuel Tank.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\07. Fuel Tank.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\07. Fuel Tank.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\07. Fuel Tank\obj\Debug\net5.0\ref\07. Fuel Tank.dll

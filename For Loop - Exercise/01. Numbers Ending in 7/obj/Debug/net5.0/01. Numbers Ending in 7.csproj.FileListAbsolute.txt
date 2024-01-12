@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.exe
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.deps.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\bin\Debug\net5.0\01. Numbers Ending in 7.pdb
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\refint\01. Numbers Ending in 7.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.pdb
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\01. Numbers Ending in 7.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\01. Numbers Ending in 7\obj\Debug\net5.0\ref\01. Numbers Ending in 7.dll

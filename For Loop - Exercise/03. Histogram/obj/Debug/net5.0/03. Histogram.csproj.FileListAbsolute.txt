@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.exe
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.deps.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\bin\Debug\net5.0\03. Histogram.pdb
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\refint\03. Histogram.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.pdb
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\03. Histogram.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\03. Histogram\obj\Debug\net5.0\ref\03. Histogram.dll

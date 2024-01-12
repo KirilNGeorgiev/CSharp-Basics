@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net5.0\03. Time + 15 Minutes.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\refint\03. Time + 15 Minutes.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\03. Time + 15 Minutes.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net5.0\ref\03. Time + 15 Minutes.dll

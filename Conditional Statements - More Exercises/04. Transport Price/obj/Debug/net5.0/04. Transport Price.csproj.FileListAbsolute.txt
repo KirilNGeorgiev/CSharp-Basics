@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net5.0\04. Transport Price.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net5.0\04. Transport Price.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net5.0\04. Transport Price.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net5.0\04. Transport Price.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net5.0\04. Transport Price.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\bin\Debug\net5.0\04. Transport Price.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\04. Transport Price.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\04. Transport Price.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\04. Transport Price.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\04. Transport Price.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\04. Transport Price.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\04. Transport Price.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\refint\04. Transport Price.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\04. Transport Price.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\04. Transport Price.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\04. Transport Price\obj\Debug\net5.0\ref\04. Transport Price.dll

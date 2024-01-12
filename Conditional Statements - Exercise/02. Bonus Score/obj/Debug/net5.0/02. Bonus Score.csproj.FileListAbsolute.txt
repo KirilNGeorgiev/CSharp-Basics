@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net5.0\02. Bonus Score.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\refint\02. Bonus Score.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\02. Bonus Score.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net5.0\ref\02. Bonus Score.dll

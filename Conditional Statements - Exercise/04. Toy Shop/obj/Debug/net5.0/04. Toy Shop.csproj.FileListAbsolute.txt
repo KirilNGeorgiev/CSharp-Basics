@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\refint\04. Toy Shop.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\ref\04. Toy Shop.dll

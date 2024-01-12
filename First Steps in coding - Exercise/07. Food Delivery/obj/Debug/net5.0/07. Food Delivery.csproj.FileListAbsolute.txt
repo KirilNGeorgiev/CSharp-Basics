@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.exe
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.deps.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\bin\Debug\net5.0\07. Food Delivery.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\refint\07. Food Delivery.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\07. Food Delivery.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\07. Food Delivery\obj\Debug\net5.0\ref\07. Food Delivery.dll

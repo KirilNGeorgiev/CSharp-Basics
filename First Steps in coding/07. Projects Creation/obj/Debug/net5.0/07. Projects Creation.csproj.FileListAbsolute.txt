@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.exe
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.deps.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\bin\Debug\net5.0\07. Projects Creation.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\refint\07. Projects Creation.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\07. Projects Creation.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\07. Projects Creation\obj\Debug\net5.0\ref\07. Projects Creation.dll

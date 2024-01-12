@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.exe
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.deps.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\bin\Debug\net5.0\06. Repainting.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\refint\06. Repainting.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\06. Repainting.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\06. Repainting\obj\Debug\net5.0\ref\06. Repainting.dll

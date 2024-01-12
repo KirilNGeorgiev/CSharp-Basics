@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.exe
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.deps.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\bin\Debug\net5.0\02. Half Sum Element.pdb
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\refint\02. Half Sum Element.dll
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.pdb
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\02. Half Sum Element.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\For Loop - Exercise\02. Half Sum Element\obj\Debug\net5.0\ref\02. Half Sum Element.dll

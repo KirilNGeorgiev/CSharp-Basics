@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\net5.0\02. Sleepy Tom Cat.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\net5.0\02. Sleepy Tom Cat.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\net5.0\02. Sleepy Tom Cat.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\net5.0\02. Sleepy Tom Cat.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\net5.0\02. Sleepy Tom Cat.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\bin\Debug\net5.0\02. Sleepy Tom Cat.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\02. Sleepy Tom Cat.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\02. Sleepy Tom Cat.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\02. Sleepy Tom Cat.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\02. Sleepy Tom Cat.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\02. Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\02. Sleepy Tom Cat.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\refint\02. Sleepy Tom Cat.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\02. Sleepy Tom Cat.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\02. Sleepy Tom Cat.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\02. Sleepy Tom Cat\obj\Debug\net5.0\ref\02. Sleepy Tom Cat.dll

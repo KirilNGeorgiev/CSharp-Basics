@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net5.0\02. Summer Outfit.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\refint\02. Summer Outfit.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\02. Summer Outfit.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net5.0\ref\02. Summer Outfit.dll

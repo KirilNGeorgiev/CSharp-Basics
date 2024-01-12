@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\bin\Debug\net5.0\04. Fishing Boat.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\refint\04. Fishing Boat.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\04. Fishing Boat.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\04. Fishing Boat\obj\Debug\net5.0\ref\04. Fishing Boat.dll

@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net5.0\03. New House.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\refint\03. New House.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\03. New House.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net5.0\ref\03. New House.dll

@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net5.0\01. Cinema.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\refint\01. Cinema.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\01. Cinema.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net5.0\ref\01. Cinema.dll

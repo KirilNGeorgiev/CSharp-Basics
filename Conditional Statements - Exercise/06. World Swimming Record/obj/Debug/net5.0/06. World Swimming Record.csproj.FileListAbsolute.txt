@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net5.0\06. World Swimming Record.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\refint\06. World Swimming Record.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\06. World Swimming Record.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net5.0\ref\06. World Swimming Record.dll

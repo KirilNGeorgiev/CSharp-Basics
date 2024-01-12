@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.exe
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.deps.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\bin\Debug\net5.0\04. Inches to Centimeters.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\refint\04. Inches to Centimeters.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\04. Inches to Centimeters.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding\04. Inches to Centimeters\obj\Debug\net5.0\ref\04. Inches to Centimeters.dll

@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.exe
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.deps.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\bin\Debug\net5.0\04. Vacation Books List.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\refint\04. Vacation Books List.dll
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.pdb
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\04. Vacation Books List.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\First Steps in coding - Exercise\04. Vacation Books List\obj\Debug\net5.0\ref\04. Vacation Books List.dll

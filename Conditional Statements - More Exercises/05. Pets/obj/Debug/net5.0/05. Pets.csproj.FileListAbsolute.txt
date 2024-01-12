@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\bin\Debug\net5.0\05. Pets.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\bin\Debug\net5.0\05. Pets.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\bin\Debug\net5.0\05. Pets.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\bin\Debug\net5.0\05. Pets.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\bin\Debug\net5.0\05. Pets.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\bin\Debug\net5.0\05. Pets.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\05. Pets.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\05. Pets.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\05. Pets.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\05. Pets.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\05. Pets.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\05. Pets.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\refint\05. Pets.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\05. Pets.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\05. Pets.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - More Exercises\05. Pets\obj\Debug\net5.0\ref\05. Pets.dll

@@ -1,0 +1,16 @@
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.exe
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.deps.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.runtimeconfig.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.runtimeconfig.dev.json
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net5.0\05. Godzilla vs. Kong.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.csproj.AssemblyReference.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.AssemblyInfo.cs
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\refint\05. Godzilla vs. Kong.dll
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.pdb
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\05. Godzilla vs. Kong.genruntimeconfig.cache
+E:\My Files\Pictures\Временни\VS 2022\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net5.0\ref\05. Godzilla vs. Kong.dll
